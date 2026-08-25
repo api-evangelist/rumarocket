@@ -6,8 +6,7 @@
       "feed_url": "https://rumarocket.com",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://medium.com/feed/rumarocket",
@@ -18,9 +17,12 @@
     },
     {
       "source": "https://medium.com/rumarocket",
-      "error": "HTTPError"
+      "feed_url": "https://medium.com/feed/rumarocket",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
   "post_count": 9,
-  "fetched": "2026-08-15T12:11:08Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }
